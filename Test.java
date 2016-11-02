@@ -12,3 +12,5 @@ for(i;i<10;i++){
  *WKS
  */
 }
+
+//UWAGA LECI TEMAT
