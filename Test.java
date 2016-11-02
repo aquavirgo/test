@@ -8,3 +8,6 @@ for(i;i<10;i++){
  }
 //TEST
 }
+
+
+//CZy to dziala czy nie ???
