@@ -1,3 +1,4 @@
+//Klasa odpowiedzialna za iterację
 public static Test(){
 int i=1;
 
