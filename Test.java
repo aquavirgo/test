@@ -8,6 +8,6 @@ for(i;i<10;i++){
  }
 //TEST
 }
-
+void test(){}
 
 //CZy to dziala czy nie ???
