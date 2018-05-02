@@ -15,13 +15,13 @@ for(i;i<10;i++){
 
 //CZy to dziala czy nie ???
 
-<<<<<<< HEAD
+            
 public class Tart{
 int i=0;}
-=======
+       
 abstract class NewFile{
 Test test = new Test():
 test.main();
 
 }
->>>>>>> test2
+             
