@@ -14,3 +14,9 @@ for(i;i<10;i++){
 //void test(){}
 
 //CZy to dziala czy nie ???
+
+abstract class NewFile{
+Test test = new Test():
+test.main();
+
+}
