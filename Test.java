@@ -14,16 +14,13 @@ for(i;i<10;i++){
 //void test(){}
 
 //CZy to dziala czy nie ???
-<<<<<<< HEAD
 
 public class Tart{
 int i=0;}
-||||||| parent of 76d74a6... important class
-=======
 
 abstract class NewFile{
 Test test = new Test():
 test.main();
 
 }
->>>>>>> 76d74a6... important class
+
