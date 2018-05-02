@@ -14,3 +14,6 @@ for(i;i<10;i++){
 //void test(){}
 
 //CZy to dziala czy nie ???
+
+public class Tart{
+int i=0;}
