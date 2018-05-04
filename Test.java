@@ -25,3 +25,14 @@ test.main();
 
 }
              
+
+public class Tart{
+int i=0;}
+
+abstract class NewFile{
+Test test = new Test():
+test.main();
+
+}
+
+
